@@ -10,8 +10,8 @@ JavaScript | React | Redux | Ruby on Rails | Node.js | HTML | CSS | SASS | Mongo
 
 ## Stats
 
-![Harrf's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrf815&show_icons=true&theme=radical)
+![Harrf's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrf815&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrf815)](https://github.com/harrf815/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrf815)](https://github.com/harrf815/github-readme-stats)
+
 
 
