@@ -8,5 +8,5 @@ I am a software engineer. I am currently looking to join a stable company that o
 
 JavaScript | React | Redux | Ruby on Rails | Node.js | HTML | CSS | SASS | MongoDB | NPM | Git |
 
-![Harrf's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrf815&show_icons=true&theme=dark)
+![Harrf's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrf815&show_icons=true&theme=dark&text_color=#1b242f)
 
